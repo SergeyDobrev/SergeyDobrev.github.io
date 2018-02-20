@@ -7,6 +7,47 @@ body {
 	margin: 0 auto;
 }
 
-div {
+.coverPhoto {
+	height: 260px;
+	width: 975px;
+	margin: 5px;
+
+	border: 1px solid green;
 	color: green;
+	text-align: center;
+}
+
+.linkBlock {
+	height: 100px;
+	text-align: left;
+	line-height: 100px;
+}
+
+.skillsBlock {
+	height: 100px;
+	width: 955px;
+	text-align: left;
+	line-height: 100px;
+	padding-left: 20px;
+	font-size: 30px;
+}
+
+
+.main {
+	height: 4040px;
+	widows: 1000px;
+	margin: 0 calc((100% - 1000px) / 2);
+	margin-top: 50px;
+}
+
+.block {
+	height: 270px;
+	width: 480px;
+	margin: 5px;
+	border: 1px solid green;
+	display: inline-block;
+}
+
+.block:hover {
+	background-color: rgba(0,255,0,0.1);
 }
