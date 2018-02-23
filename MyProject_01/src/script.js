@@ -95,8 +95,6 @@ $(document).ready(function() {
 	let obj = document.querySelector('.main')
 	let elemRect = obj.getBoundingClientRect();
 
-	console.log(elemRect.top);
-
 		// Level 1
 		if (elemRect.top < -100 && elemRect.top > -800 && $('#mindex1').css('display') === 'none') {
 			$('#focus1').focus();

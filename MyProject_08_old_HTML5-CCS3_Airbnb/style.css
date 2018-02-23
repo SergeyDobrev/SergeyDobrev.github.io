@@ -1,0 +1,516 @@
+html, body {
+	height: 100%;
+}
+body {
+	margin: 0;
+}
+.header {
+	width: 100%;
+	height: 564px;
+}
+.block_body {
+	width: 1032px;
+	margin: 0 auto;
+	padding: 24px 0;
+}
+.block_footer {
+	width: 100%;
+	height: 400px;
+	margin: 0 auto;
+	border-top: 1px solid lightgrey;
+}
+
+.header_top {
+	width: 100%;
+	height: 64px;
+	display: inline-block;
+}
+.header_top_logo {
+	width: 34px;
+	height: 32px;
+	padding: 15px 16px;
+	margin-left: 8px;
+	display: inline-block;
+}
+.header_top_center {
+	width: calc(100% - 515px);
+	height: 32px;
+	display: inline-block;
+}
+.header_top_leftmenu {
+	width: 429px;
+	height: 32px;
+	display: inline-block;
+}
+.header_top_leftmenu_stat_khozyainom {
+	width: 112px;
+	height: 32px;
+	padding: 16px;
+	display: inline-block;
+	vertical-align: middle;
+	color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.header_top_leftmenu_pomoshch {
+	width: 55px;
+	height: 32px;
+	padding: 16px;
+	display: inline-block;
+	vertical-align: middle;
+	color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.header_top_leftmenu_registratsiya {
+	width: 82px;
+	height: 32px;
+	padding: 16px;
+	display: inline-block;
+	vertical-align: middle;
+	color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.header_top_leftmenu_Voyti {
+	width: 40px;
+	height: 32px;
+	padding: 16px;
+	display: inline-block;
+	vertical-align: middle;
+	color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.heder_main {
+	width: 1032px;
+	height: 240px;
+	margin: 0 auto;
+	padding: 48px 24px 0;
+}
+.header_main_airbnb {
+	color: #FF5A5F;
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	font-size: 48px;
+	font-weight: bold;
+	letter-spacing: -0.8px;
+	line-height: 56px;
+
+}
+.header_main_broniruyte {
+	width: 619px;
+	height: 168px;
+	color: #484848;
+	font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 48px;
+	letter-spacing: -0.8px;
+	line-height: 56px;
+}
+.heder_bootom_menu {
+	width: 1032px;
+	height: 197px;
+	margin: 0 auto;
+	padding: 24px 0;
+}
+.heder_bootom_nachatpoisk {
+	width: 1032px;
+	height: 80px;
+	margin: 0 auto;
+	border: 1px solid lightgrey;
+	border-radius:5px;
+}
+.heder_bootom_nachatpoisk_block_gdeugodno {
+	width: 342px;
+	height: 80px;
+	vertical-align: top;
+	display: inline-block;
+}
+.heder_bootom_nachatpoisk_block_gdeugodno_gde {
+	width: 327px;
+	height: 18px;
+	display: inline-block;
+	color: #484848;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	margin-top: 16px;
+	margin-left: 12px;
+}
+.heder_bootom_nachatpoisk_block_gdeugodno_gde_ugodno {
+	width: 314px;
+	height: 24px;
+	display: inline-block;
+	color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 19px;
+	font-weight: normal;
+	padding: 11px;
+}
+.heder_bootom_nachatpoisk_block_kogda {
+	width: 340px;
+	height: 80px;
+	border-left: 1px solid lightgrey;
+	border-right: 1px solid lightgrey;
+	display: inline-block;
+}
+.heder_bootom_nachatpoisk_block_kogda_kogda {
+	width: 327px;
+	height: 18px;
+	display: inline-block;
+	color: 484848;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	margin-top: 16px;
+	margin-left: 12px;
+}
+.heder_bootom_nachatpoisk_block_kogda_vlyuboyevremya {
+	width: 314px;
+	height: 24px;
+	display: inline-block;
+	color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 19px;
+	font-weight: normal;
+	padding: 11px;
+}
+.heder_bootom_nachatpoisk_block_gostey {
+	width: 340px;
+	height: 80px;
+	vertical-align: top;
+	display: inline-block;
+}
+.heder_bootom_nachatpoisk_block_gostey_block_1 {
+	width: 159px;
+	height: 80px;
+	vertical-align: top;
+	display: inline-block;
+}
+.heder_bootom_nachatpoisk_block_gostey_block_2 {
+	width: 169px;
+	height: 80px;
+	vertical-align: center;
+	display: inline-block;
+	margin: 0 auto;
+}
+.heder_bootom_nachatpoisk_block_gostey_block_1_gostey {
+	width: 169px;
+	height: 18px;
+	display: inline-block;
+	color: 484848;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	margin-top: 16px;
+	margin-left: 14px;
+}
+.heder_bootom_nachatpoisk_block_gostey_block_1_odingost {
+	width: 169px;
+	height: 24px;
+	display: inline-block;
+	color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 19px;
+	font-weight: normal;
+	padding: 11px;
+}
+.heder_bootom_nachatpoisk_block_gostey_block_2_button {
+	width: 120px;
+	height: 20px;
+	background-color: #FF5A5F ;
+	display: inline-block;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 12px; 
+	padding: 18px 18px;
+	border-radius: 4px;
+}
+.heder_bootom_block_dlyavas {
+	width: 1032px;
+	height: 59px;
+	padding-bottom: 17px;
+	margin-bottom: -17px;
+	border-bottom: 1px solid lightgrey;
+	display: inline-block;
+}
+.heder_bootom_block_dlyavas_menu_dlyavas {
+	width: 56px;
+	height: 25px;
+	padding-top: 49px;
+	margin-right: 16px;
+	display: inline-block;	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	letter-spacing: 0.2px;
+	color: #008489;
+	font-weight: bold;
+	border-bottom: 3px solid #008489;
+}
+.heder_bootom_block_dlyavas_menu_zhilye {
+	width: 48px;
+	height: 25px;
+	padding-top: 49px;
+	margin-right: 16px;
+	display: inline-block;	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	letter-spacing: 0.2px;
+	color: #484848;
+	font-weight: bold;
+}
+.heder_bootom_block_dlyavas_menu_vpechatleniya {
+	width: 92px;
+	height: 25px;
+	padding-top: 49px;
+	margin-right: 16px;
+	display: inline-block;	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	letter-spacing: 0.2px;
+	color: #484848;
+	font-weight: bold;
+}
+.heder_bootom_block_dlyavas_menu_mesta {
+	width: 40px;
+	height: 25px;
+	padding-top: 49px;
+	margin-right: 16px;
+	display: inline-block;	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	letter-spacing: 0.2px;
+	color: #484848;
+	font-weight: bold;
+}
+.block_line_header {
+	width: 924px;
+	height: 40px;
+	margin: 0 auto;
+    display: inline-block;	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+    line-height: 28px;
+    letter-spacing: -1px;
+    font-weight: bold;
+    color: #484848;
+}
+.block_See_all {
+	width: 108px;
+	height: 40px;
+	margin: 0 auto;
+    display: inline-block;	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+    line-height: 28px;
+    letter-spacing: -1px;
+    font-weight: bold;
+    color: #484848;
+}
+.block_line_15 {
+	width: 1032px;
+	height: 360px;
+	display: inline-block;
+	margin: 0 auto;
+}
+.block_picture_1 {
+	width: 192px;
+	height: 360px;
+ 	padding: 0 14px 0 0;
+ 	display: inline-block;
+}
+.text_11 {
+	width: 26px;
+	height: 19px;
+	padding: 0 auto;
+	margin-right: 5px;
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+    font-weight: bold;
+    color: #484848;
+}
+.text_12 {
+	width: 160px;
+	height: 19px;
+	padding: 0 auto;
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+    line-height: 19px;
+    letter-spacing: 0.2px;
+    color: grey;
+}
+.text_13 {
+	width: 160px;
+	height: 19px;
+	padding: 0 auto;
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+    line-height: 19px;
+    letter-spacing: 0.2px;
+    color: grey;
+}
+.text_14 {
+	width: 74px;
+	height: 20px;
+	padding: 0 auto;
+	display: inline-block;
+	background-image: url('src/Stars.png');
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+
+}
+.text_15 {
+	width: 26px;
+	height: 14px;
+	padding: 0 auto;
+	margin-left: 2px;
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+    line-height: 19px;
+    letter-spacing: 0.2px;
+    color: #484848;
+}
+.text_16 {
+	width: 60px;
+	height: 14px;
+	padding: 0 auto;
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.4px;
+    color: #484848;
+    font-weight: bold;
+}
+.text_17 {
+	width: 160px;
+	height: 26px;
+	padding: 0 auto;
+	display: inline-block;
+}
+.block_line_5 {
+	width: 192px;
+	height: 290px;
+	padding: 0 auto;
+	display: inline-block;
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+}
+.picture_11 {background-image: url('src/b7508c4c-eec0-4857-b218-ecf653cc0736.jpg');}
+.picture_12 {background-image: url('src/359b027b-210d-4a8c-8a18-fd17552cd632.jpg');}
+.picture_13 {background-image: url('src/2c3fca27-e4d1-45c5-b498-d2e572eb3d3c.jpg');}
+.picture_14 {background-image: url('src/2320b2a3-53d2-4bf3-9fda-711ec2c64670.jpg');}
+.picture_15 {background-image: url('src/08b26b83-d2d3-45e9-919d-76931c3eb3a1.jpg');}
+.picture_21 {background-image: url('src/55a0b41e-b93a-4126-b2d7-ab352957bccf.jpg');}
+.picture_22 {background-image: url('src/4a713917-09f8-4b22-bee4-f83823f8bfaf.jpg');}
+.picture_23 {background-image: url('src/cd95fde0-bd62-444d-8418-eacefb3ffee3.jpg');}
+.picture_24 {background-image: url('src/6d2a4d05-007e-4066-b607-20970c4de4bf.jpg');}
+.picture_25 {background-image: url('src/b8db98e3-164f-4599-a1a0-0a1c3e3ecb40.jpg');}
+.picture_31 {background-image: url('src/f57a3525-c41a-42fc-8b33-8fa39a27d35d.jpg');}
+.picture_32 {background-image: url('src/d5453178-6dc4-4641-9f7c-bef2021ebb95.jpg');}
+.picture_33 {background-image: url('src/62c5661f-a363-497c-943c-624df69764b8.jpg');}
+.picture_34 {background-image: url('src/40d05646-1f3b-4ee4-b6fb-a72a3afc0297.jpg');}
+.picture_35 {background-image: url('src/f8b51a41-900b-4312-9ea0-d141133a116d.jpg');}
+.picture_41 {background-image: url('src/07da85f8-dd20-48eb-9fdd-6543b3d20a2d.jpg');}
+.picture_42 {background-image: url('src/0e96f87c-690b-4c48-a539-45d9abe20da7.jpg');}
+.picture_43 {background-image: url('src/6a30b136-b1a7-426a-aee1-95e8ddf6f5d6.jpg');}
+.picture_44 {background-image: url('src/a6982edd-0893-4627-8740-2d13e7ae087c.jpg');}
+.picture_45 {background-image: url('src/23b4f5e3-0c72-42a6-8365-d32ebd9a50da.jpg');}
+.picture_51 {background-image: url('src/6e3b7960-cde3-442d-9f02-ee05c49ea7a0.jpg');}
+.picture_52 {background-image: url('src/f3836c62-2735-48c0-8738-aef07aec3c1f.jpg');}
+.picture_53 {background-image: url('src/b5f60d49-1ec7-4fdd-a64d-64efa3e65f41.jpg');}
+.picture_54 {background-image: url('src/e9fe6896-aadb-4e6e-9bf0-8fc4f49fa7ac.jpg');}
+.picture_55 {background-image: url('src/6347b8a1-d037-45d5-ae2c-2c43868e9c75.jpg');}
+.picture_61 {background-image: url('src/aeb95b29-3ec9-4e8c-9325-6efbbfc9d434.jpg');}
+.picture_62 {background-image: url('src/ae23f817-b6a3-4224-97f4-c6a236393c48.jpg');}
+.picture_63 {background-image: url('src/bf2e9eae-150c-4390-b3b1-9a06c2b3daf6.jpg');}
+.picture_64 {background-image: url('src/1f7d58b1-68a5-4cc0-ac7c-2b58ee4b4058.jpg');}
+.picture_65 {background-image: url('src/4f651d1c-5b9a-4a4b-9d9c-515bed7bff18.jpg');}
+.picture_71 {background-image: url('src/9d354299-3a14-4b1f-8880-6381b6b090c4.jpg');}
+.picture_72 {background-image: url('src/829815b4-53f6-4c5a-9b45-3984753aa3db.jpg');}
+.picture_73 {background-image: url('src/c5edb975-a729-4101-8f3d-3d1afd5deb45.jpg');}
+.picture_74 {background-image: url('src/03ee2ce2-782e-42f3-b3c2-7cf85b3cd6c9.jpg');}
+.picture_75 {background-image: url('src/9a98c200-8071-4778-bf02-6a17153daded.jpg');}
+.picture_81 {background-image: url('src/fddf8286-2bf3-46a2-b26c-d67c53a0888a.jpg');}
+.picture_82 {background-image: url('src/7dcdcdc9-78fe-49c2-bb09-c4f6cf3e4e44.jpg');}
+.picture_83 {background-image: url('src/247bd8ae-62bf-4b00-a367-77ca12e8988b.jpg');}
+.picture_84 {background-image: url('src/27901924-896e-40b8-b4c5-e67acf424ab2.jpg');}
+.picture_85 {background-image: url('src/cd745e58-5dc9-40e0-86af-edb52833c4d3.jpg');}
+.picture_91 {background-image: url('src/683388dd-3a77-4772-9159-d42577148a05.jpg');}
+.picture_92 {background-image: url('src/957b37ef-a142-4484-a469-3bd8f124991a.jpg');}
+.picture_93 {background-image: url('src/7589feb8-6311-4ba0-be44-a0f8d6fe38c6.jpg');}
+.picture_94 {background-image: url('src/db0f7078-ce32-4bfe-a3d3-9b9fdcbaaa11.jpg');}
+.picture_95 {background-image: url('src/e55320cf-9987-47ba-ae14-ddedbbebbd01.jpg');}
+.picture_101 {background-image: url('src/1feda020-5d49-40c5-b3ec-6f79341fc74e.jpg');}
+.picture_102 {background-image: url('src/7963c7ae-4825-417e-a417-573117125aee.jpg');}
+.picture_103 {background-image: url('src/c47cb092-6caf-4eda-bbaf-01b52b015064.jpg');}
+.picture_104 {background-image: url('src/ac497b07-8fa5-46ce-a66e-ce38ab9d3cb0.jpg');}
+.picture_105 {background-image: url('src/ef25c956-a031-4ce2-a06d-928369b3abae.jpg');}
+.picture_111 {background-image: url('src/d5c7d092-0daa-4dea-8e57-9264e768c925.jpg');}
+.picture_112 {background-image: url('src/bb255ff8-5b20-4383-a1c6-f67bc6954059.jpg');}
+.picture_113 {background-image: url('src/dee5a478-4135-4d05-97ac-e14419fbe9f4.jpg');}
+.picture_114 {background-image: url('src/892b34c9-4a09-4b94-8135-e8dca35f6303.jpg');}
+.picture_115 {background-image: url('src/28ac9000-5eb1-42c3-b216-b61fc5ec378d.jpg');}
+
+.block_fotter_menu {
+	width: 1032px;
+	height: 263px;
+	padding: 48px 0;
+	margin: 0 auto;
+}
+.block_fotter_menu_column_0 {
+	width: 246px;
+	height: 263px;
+ 	margin: 0 auto;
+	padding: 8px 0; 
+	display: inline-block;
+}
+.block_fotter_menu_column_1 {
+	width: 160px;
+	height: 263px;
+	margin-left: 87px;
+	padding: 8px 0;
+	display: inline-block;
+}
+.block_fotter_menu_column_0_language {
+	width: 198px;
+	height: 43px;
+	padding: 0;
+	margin: 4px.
+	border: 1px solid lightgrey;
+	border-radius: 2px;
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.4px;
+    color: #484848;
+    font-weight: bold;
+	float: top;
+}
+.block_fotter_menu_column_1_language {
+	width: 198px;
+	height: 159px;
+	padding: 0;
+	border: 1px solid lightgrey;
+	border-radius: 2px;
+	display: inline-block;
+}
+.block_fotter_menu_column_2_language {
+	width: 196px;
+	height: 246px;
+	padding: 0;
+	border: 1px solid lightgrey;
+	border-radius: 2px;
+	display: inline-block;
+}
