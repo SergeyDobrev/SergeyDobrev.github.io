@@ -39,8 +39,7 @@ img {
 
 
 .main {
-	height: 4040px;
-	widows: 1000px;
+	width: 1000px;
 	margin: 0 calc((100% - 1000px) / 2);
 	margin-top: 50px;
 }
@@ -55,5 +54,5 @@ img {
 }
 
 .block:hover {
-	opacity: 0.6;
+	opacity: 0.4;
 }
