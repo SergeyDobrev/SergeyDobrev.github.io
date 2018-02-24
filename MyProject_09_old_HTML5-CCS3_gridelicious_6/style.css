@@ -74,7 +74,7 @@ body {
 	vertical-align: top;
 }
 .header_menu_item_left_margin {
-	margin-left: calc((100% - 820px) / 2);
+	margin-left: calc((100% - 840px) / 2);
 }
 .header_menu_item_icon {
 	width: 41px;
