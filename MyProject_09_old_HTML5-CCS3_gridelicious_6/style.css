@@ -86,7 +86,7 @@ body {
 	display: inline-block;
 }
 .header_menu_item_icon_left_margin {
-	margin-left: calc((100% - 820px) / 2);
+	margin-left: calc((100% - 800px) / 2);
 }
 .header_menu_item_icon_facebook {
 	background-image: url("icon-facebook_black.png");
