@@ -22,6 +22,60 @@ h1 {
 	    text-shadow: 4px 4px 6px black, -4px -4px 6px black; /* Параметры тени */
 }
 
+.linkicons {
+	width: 35px;
+	height: 35px;
+	margin: 5px 5px 0 -5px;
+	color: black;
+	font-size: 35px;
+	line-height: 35px;
+	text-align: center;
+	display: inline-block;
+	border-radius: 2px;
+}
+
+.linkicons:hover {
+	color: white;
+}
+
+.google:hover {
+	background-color: #db4437;
+}
+
+.linkedin:hover {
+	background-color: #0084bf;
+}
+
+.github:hover {
+	background-color: #24292e;
+}
+
+.codepen:hover {
+	background-color: #24292e;
+	color: gray;
+}
+
+.facebook:hover {
+	background-color: #3b5998;
+}
+
+.skype:hover {
+	background-color: #00aff0;
+}
+
+.ukrnet:hover {
+	background-color: #82af32;
+}
+
+.telephone:hover {
+	background-color: #db4437;
+}
+
+.paper:hover {
+	background-color: green;
+}
+
+
 .coverFon {
 	height: 320px;
 	width: 978px;
@@ -31,6 +85,7 @@ h1 {
 	background-size: cover;
 	background-position: center;
 	position: relative;
+	text-align: right;
 
 }
 
@@ -41,7 +96,7 @@ h1 {
 	border: 1px solid black;
 	position: absolute;
 	left: 30px;
-	margin-top: 190px;
+	margin-top: 155px;
 	border-radius: 3px;
 }
 
