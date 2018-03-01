@@ -1,0 +1,239 @@
+@font-face {
+    font-family:my_Myriad_Pro_Regular;   
+    src:url("Myriad Pro Regular.ttf"); 
+}
+html, body {
+	height: 100%;
+}
+body {
+	margin: 0;
+}
+.main {
+	margin: 0 auto;
+	height: 1600px;
+	width: 1200px;
+	background-color: rgb(232,232,232);
+	border: 1px solid black;
+}
+.main_fon {
+	height: 1516px;
+	width: 1000px;
+	background-color: white;
+	margin: 24px 100px 60px 100px;
+/* 	border: 1px solid black; */
+	box-shadow: 0 12px 18px 18px rgba(13,13,13,0.38);	
+}
+.main_fon_header {
+	height: 109px;
+	width: 1000px;
+	background-image: url(head.jpg);
+	background-size: cover;
+	background-position: center;
+	display: inline-block;
+}
+.main_fon_body {
+	height: 1300px;
+	width: 1000px;
+	display: inline-block;
+
+}
+.main_fon_body_Priobresti {
+	height: 77px;
+	width: 663px;
+	margin: 44px 168px 0 168px;
+	background-image: url(Priobresti.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.main_fon_body_number {
+	height: 45px;
+	width: 45px;
+	margin-top: 60px;
+	margin-left: 330px;
+	border-radius: 50%;
+	background-color: rgb(208,13,0);
+	display: inline-block;
+
+}
+.main_fon_body_number_1 {
+	height: 45px;
+	width: 45px;
+	border-radius: 50%;
+	background-color: rgb(208,13,0);
+	display: inline-block;
+ 	font-family: my_Myriad_Pro_Regular;
+	color: white;
+	font-size: 36px;
+	text-align: center;
+}
+.main_fon_body_number_txt {
+	height: 45px;
+	width: 600px;
+	margin-top: 60px;
+	margin-left: 10px;
+	display: inline-block;
+ 	font-family: my_Myriad_Pro_Regular;
+	color: black;
+	font-size: 28px;
+}
+.main_fon_body_el_money {
+	height: 35px;
+	width: 322px;
+	margin-top: 46px;
+	margin-left: 178px;
+	display: inline-block;
+ 	font-family: my_Myriad_Pro_Regular;
+	color: black;
+	font-size: 28px;
+}
+.main_fon_body_bank_card {
+	height: 35px;
+	width: 300px;
+	margin-top: 46px;
+	margin-left: 78px;
+	display: inline-block;
+ 	font-family: my_Myriad_Pro_Regular;
+	color: black;
+	font-size: 28px;
+}
+.main_fon_body_battum {
+	height: 106px;
+	width: 283px;
+	margin-top: 12px;
+	border: 1px solid rgb(47,47,47);
+	border-radius: 18px;
+	display: inline-block;
+	box-shadow: 0 4px 4px 4px rgba(47,47,47,0.20);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.main_fon_body_battum_yandex {
+	margin-left: 168px;
+	background-color: rgb(198,198,198);
+	box-shadow: 0 4px 4px 4px rgba(47,47,47,0.20);
+	background-image: url(yandex.png);	
+}
+.main_fon_body_battum_visa {
+	margin-left: 101px;
+	box-shadow: 0 4px 4px 4px rgba(47,47,47,0.20);
+	background-image: url(visa.png);	
+}
+.main_fon_body_battum_alfa {
+	margin-left: 558px;
+	box-shadow: 0 4px 4px 4px rgba(47,47,47,0.20);
+	background-image: url(alfa.png);	
+	margin-top: 6px;
+}
+.main_fon_body_battum_promlinkbank {
+	margin-left: 558px;
+	box-shadow: 0 4px 4px 4px rgba(47,47,47,0.20);
+	background-image: url(promlinkbank.png);
+	margin-top: 28px;
+
+}
+.main_fon_body_bank_online {
+	height: 35px;
+	width: 300px;
+	margin-top: 25px;
+	margin-left: 608px;
+	display: inline-block;
+ 	font-family: my_Myriad_Pro_Regular;
+	color: black;
+	font-size: 28px;
+}
+.main_fon_body_number2 {
+	height: 45px;
+	width: 45px;
+	margin-top: 60px;
+	margin-left: 362px;
+	border-radius: 50%;
+	background-color: rgb(208,13,0);
+	display: inline-block;
+
+}
+.main_fon_body_number2_2 {
+	height: 45px;
+	width: 45px;
+	border-radius: 50%;
+	background-color: rgb(208,13,0);
+	display: inline-block;
+ 	font-family: my_Myriad_Pro_Regular;
+	color: white;
+	font-size: 36px;
+	text-align: center;
+}
+.main_fon_body_number2_txt {
+	height: 45px;
+	width: 400px;
+	margin-top: 60px;
+	margin-left: 10px;
+	display: inline-block;
+ 	font-family: my_Myriad_Pro_Regular;
+	color: black;
+	font-size: 28px;
+}
+.main_fon_body_battum_e_mail {
+	height: 50px;
+	width: 555px;
+	margin-top: 46px;
+	margin-left: 220px;
+	border: 1px solid rgb(47,47,47);
+	border-radius: 10px;
+	display: inline-block;
+	box-shadow: 0 4px 4px 4px rgba(47,47,47,0.20);
+	font-family: my_Myriad_Pro_Regular;
+	color: rgb(120,120,120);
+	font-size: 36px;
+	background-color: rgb(232,232,232);
+	text-align: center;
+	text-decoration: bold;
+}
+.main_fon_body_battum_e_mail_txt {
+	height: 50px;
+	width: 555px;
+	margin-top: 3px;	
+}
+.main_fon_body_battum_pay {
+	height: 60px;
+	width: 205px;
+	margin-top: 40px;
+	margin-left: 397px;
+	border: 1px solid rgb(47,47,47);
+	border-radius: 10px;
+	display: inline-block;
+	box-shadow: 0 4px 4px 4px rgba(47,47,47,0.20);
+ 	font-family: my_Myriad_Pro_Regular;
+	color: rgb(255,255,255);
+	font-size: 32px;
+	background-color: rgb(208,13,0);
+	text-align: center;
+	text-decoration: bold;
+}
+.main_fon_body_battum_pay_txt {
+	height: 60px;
+	width: 205px;
+	margin-top: 10px;
+}
+.main_fon_body_footer_txt {
+	height: 100px;
+	width: 800px;
+	margin-top: 80px;
+	margin-left: 25px;
+ 	font-family: my_Myriad_Pro_Regular;
+	color: rgb(110,110,110);
+	font-size: 19px;
+	text-decoration: bold;
+	line-height: 30px;
+	font-weight: 600;
+
+}
+.main_fon_footer {
+	height: 106px;
+	width: 1000px;
+	background-image: url(fut.jpg);
+	background-size: cover;
+	background-position: center;
+	display: inline-block;
+}

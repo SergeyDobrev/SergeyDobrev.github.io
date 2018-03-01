@@ -1,0 +1,67 @@
+html, body {
+	height: 100%;
+}
+body {
+	margin: 0 auto;
+	background-color: black;
+	overflow-y: hidden;
+}
+
+.glass {
+	height: 500px;
+	width: 500px;
+	margin: 235px auto;
+	perspective: 750px;
+	text-align: center;
+	position: relative;
+}
+.glass_2 {
+	height: 500px;
+	width: 500px;
+	transform-style: preserve-3d;
+		transform-origin: 100% 100% 100%;
+}
+.side_left {
+	height: 500px;
+	width: 700px;
+	border: 2px solid green;
+	position: absolute;
+	transform: rotateY(-90deg) translateZ(352px);
+}
+.side_right {
+	height: 500px;
+	width: 700px;
+	border: 1px solid green;
+	position: absolute;
+	transform: rotateY(90deg) translateZ(150px);
+}
+.side_top {
+	height: 700px;
+	width: 500px;
+	border: 1px solid green;
+	position: absolute;
+	transform: rotateX(90deg) translateZ(350px);
+}
+.side_bottom {
+	height: 700px;
+	width: 500px;
+	border: 1px solid green;
+	position: absolute;
+	transform: rotateX(-90deg) translateZ(152px);
+}
+.side_back {
+	height: 500px;
+	width: 500px;
+	border: 1px solid green;
+	position: absolute;
+	transform: rotateX(180deg) translateZ(350px);
+}
+.figure {
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	transform-style: preserve-3d;
+	transform: translateZ(300px);
+	transition: transform 0.2s;
+	/* transform-origin: 50px 0 0; */
+}
