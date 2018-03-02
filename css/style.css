@@ -15,11 +15,15 @@ img {
 h1 {
 	color: white;
 	position: absolute;
-	    left: 220px;
-	    top: 235px;
-	    font-size: 45px;
-	    font-weight: bold;
-	    text-shadow: 4px 4px 6px black, -4px -4px 6px black; /* Параметры тени */
+    left: 220px;
+    top: 235px;
+    font-size: 45px;
+    font-weight: bold;
+    text-shadow: 4px 4px 6px black, -4px -4px 6px black; /* Параметры тени */
+}
+
+a {
+	color: green;
 }
 
 .linkicons {
@@ -113,21 +117,32 @@ h1 {
 	background-size: cover;
 	background-position: center;
 }
-.linkBlock {
-	height: 100px;
-	text-align: left;
-	line-height: 100px;
-}
 
 .skillsBlock {
-	height: 100px;
-	width: 955px;
+	height: 200px;
+	width: 975px;
+	margin: -60px 0 5px 5px;
 	text-align: left;
-	line-height: 100px;
-	padding-left: 20px;
-	font-size: 30px;
+	font-size: 32px;
+	/* border: 1px solid green; */
+	font-weight: bold;
+	color: green;
+	text-align: right;
 }
 
+.skillsItem {
+	height: 30px;
+	width: 176px;
+	margin: 2px;
+	font-size: 20px;
+	line-height: 30px;
+	border: 1px solid green;
+	display: inline-block;
+	vertical-align: top;
+	text-decoration: none;
+	padding-left: 6px;
+	text-align: left;
+}
 
 .main {
 	width: 1000px;
@@ -146,4 +161,17 @@ h1 {
 
 .block:hover {
 	opacity: 0.4;
+}
+
+.myProjects {
+	height: 32px;
+	width: 975px;
+	margin: -40px 0 5px 5px;
+	text-align: left;
+	line-height: 32px;
+	font-size: 32px;
+	/* border: 1px solid green; */
+	font-weight: bold;
+	color: green;
+	text-align: right;
 }
