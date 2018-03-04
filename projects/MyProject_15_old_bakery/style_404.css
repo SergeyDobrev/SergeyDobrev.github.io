@@ -1,0 +1,9 @@
+html, body {
+	height: 100%;
+}
+body {
+	margin: 0;
+	/* background-image: url("404-DesignFire5.jpg");
+	background-position: center;
+	background-size: cover; */
+}

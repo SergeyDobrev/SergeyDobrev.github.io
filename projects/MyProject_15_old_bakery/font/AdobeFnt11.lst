@@ -1,0 +1,547 @@
+%!Adobe-FontList 1.11
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Alegreya-Black
+FamilyName:Alegreya
+StyleName:Black
+FullName:Alegreya Black
+MenuName:Alegreya
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\Alegreya-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:45628
+FileModTime:1500514186
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Alegreya-BlackItalic
+FamilyName:Alegreya
+StyleName:Black Italic
+FullName:Alegreya Black Italic
+MenuName:Alegreya
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\Alegreya-BlackItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:44764
+FileModTime:1500514186
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Alegreya-Bold
+FamilyName:Alegreya
+StyleName:Bold
+FullName:Alegreya Bold
+MenuName:Alegreya
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\Alegreya-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:47740
+FileModTime:1500514186
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Alegreya-BoldItalic
+FamilyName:Alegreya
+StyleName:Bold Italic
+FullName:Alegreya Bold Italic
+MenuName:Alegreya
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\Alegreya-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:45956
+FileModTime:1500514186
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Alegreya-Italic
+FamilyName:Alegreya
+StyleName:Italic
+FullName:Alegreya Italic
+MenuName:Alegreya
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\Alegreya-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:45528
+FileModTime:1500514186
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Alegreya-Regular
+FamilyName:Alegreya
+StyleName:Regular
+FullName:Alegreya
+MenuName:Alegreya
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\Alegreya-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:48040
+FileModTime:1500514186
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlegreyaSC-Black
+FamilyName:Alegreya SC
+StyleName:Black
+FullName:Alegreya SC Black
+MenuName:Alegreya SC
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\AlegreyaSC-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:45828
+FileModTime:1500514186
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlegreyaSC-BlackItalic
+FamilyName:Alegreya SC
+StyleName:Black Italic
+FullName:Alegreya SC Black Italic
+MenuName:Alegreya SC
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\AlegreyaSC-BlackItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:46200
+FileModTime:1500514186
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlegreyaSC-Bold
+FamilyName:Alegreya SC
+StyleName:Bold
+FullName:Alegreya SC Bold
+MenuName:Alegreya SC
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\AlegreyaSC-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:48080
+FileModTime:1500514186
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlegreyaSC-BoldItalic
+FamilyName:Alegreya SC
+StyleName:Bold Italic
+FullName:Alegreya SC Bold Italic
+MenuName:Alegreya SC
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\AlegreyaSC-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:48560
+FileModTime:1500514186
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlegreyaSC-Italic
+FamilyName:Alegreya SC
+StyleName:Italic
+FullName:Alegreya SC Italic
+MenuName:Alegreya SC
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\AlegreyaSC-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:48480
+FileModTime:1500514186
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlegreyaSC-Regular
+FamilyName:Alegreya SC
+StyleName:Regular
+FullName:Alegreya SC
+MenuName:Alegreya SC
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\AlegreyaSC-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:48620
+FileModTime:1500514186
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PlayfairDisplay-Black
+FamilyName:Playfair Display
+StyleName:Black
+FullName:Playfair Display Black
+MenuName:Playfair Display Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\PlayfairDisplay-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:156104
+FileModTime:1500532114
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PlayfairDisplay-BlackItalic
+FamilyName:Playfair Display
+StyleName:Black Italic
+FullName:Playfair Display Black Italic
+MenuName:Playfair Display Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\PlayfairDisplay-BlackItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:146040
+FileModTime:1500532114
+WeightClass:900
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PlayfairDisplay-Bold
+FamilyName:Playfair Display
+StyleName:Bold
+FullName:Playfair Display Bold
+MenuName:Playfair Display
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\PlayfairDisplay-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:158148
+FileModTime:1500532114
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PlayfairDisplay-BoldItalic
+FamilyName:Playfair Display
+StyleName:Bold Italic
+FullName:Playfair Display Bold Italic
+MenuName:Playfair Display
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\PlayfairDisplay-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:153672
+FileModTime:1500532114
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PlayfairDisplay-Italic
+FamilyName:Playfair Display
+StyleName:Italic
+FullName:Playfair Display Italic
+MenuName:Playfair Display
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\PlayfairDisplay-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:144252
+FileModTime:1500532114
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PlayfairDisplay-Regular
+FamilyName:Playfair Display
+StyleName:Regular
+FullName:Playfair Display
+MenuName:Playfair Display
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\PlayfairDisplay-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:148580
+FileModTime:1500532114
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PlayfairDisplaySC-Black
+FamilyName:Playfair Display SC
+StyleName:Black
+FullName:Playfair Display SC Black
+MenuName:Playfair Display SC Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\PlayfairDisplaySC-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:109920
+FileModTime:1500532114
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PlayfairDisplaySC-BlackItalic
+FamilyName:Playfair Display SC
+StyleName:Black Italic
+FullName:Playfair Display SC Black Italic
+MenuName:Playfair Display SC Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\PlayfairDisplaySC-BlackItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:113128
+FileModTime:1500532114
+WeightClass:900
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PlayfairDisplaySC-Bold
+FamilyName:Playfair Display SC
+StyleName:Bold
+FullName:Playfair Display SC Bold
+MenuName:Playfair Display SC
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\PlayfairDisplaySC-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:109740
+FileModTime:1500532114
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PlayfairDisplaySC-BoldItalic
+FamilyName:Playfair Display SC
+StyleName:Bold Italic
+FullName:Playfair Display SC Bold Italic
+MenuName:Playfair Display SC
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\PlayfairDisplaySC-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:119516
+FileModTime:1500532114
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PlayfairDisplaySC-Italic
+FamilyName:Playfair Display SC
+StyleName:Italic
+FullName:Playfair Display SC Italic
+MenuName:Playfair Display SC
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\PlayfairDisplaySC-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:111736
+FileModTime:1500532114
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PlayfairDisplaySC-Regular
+FamilyName:Playfair Display SC
+StyleName:Regular
+FullName:Playfair Display SC
+MenuName:Playfair Display SC
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\PlayfairDisplaySC-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:102488
+FileModTime:1500532114
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Regular
+FamilyName:Proxima Nova
+StyleName:Regular
+FullName:Proxima Nova
+MenuName:Proxima Nova Rg
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\proximanova-regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:62892
+FileModTime:1500559544
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Scriptina
+FamilyName:Scriptina
+StyleName:Regular
+FullName:Scriptina
+MenuName:Scriptina
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Training\Step_Academy\bakery_website_v2\Font\SCRIPTIN.ttf
+DataFormat:sfntData
+FileLength:105084
+FileModTime:996959950
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
