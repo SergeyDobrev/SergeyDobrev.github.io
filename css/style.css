@@ -1,6 +1,7 @@
 html, body {
 	height: 100%;
 	background-color: black;
+	font-family: Courier;
 }
 
 body {
@@ -16,10 +17,13 @@ h1 {
 	color: white;
 	position: absolute;
     left: 220px;
-    top: 235px;
-    font-size: 45px;
+    top: 220px;
+    font-size: 55px;
     font-weight: bold;
     text-shadow: 4px 4px 6px black, -4px -4px 6px black; /* Параметры тени */
+}
+div {
+	display: inline-block;
 }
 
 a {
@@ -100,7 +104,7 @@ a {
 	border: 1px solid black;
 	position: absolute;
 	left: 30px;
-	margin-top: 155px;
+	margin-top: 195px;
 	border-radius: 3px;
 }
 
@@ -119,30 +123,60 @@ a {
 }
 
 .skillsBlock {
-	height: 200px;
+
 	width: 975px;
 	margin: -60px 0 5px 5px;
 	text-align: left;
 	font-size: 32px;
+	padding-top: 10px;
 	/* border: 1px solid green; */
 	font-weight: bold;
 	color: green;
 	text-align: right;
 }
+.skillsTitle {
+	width: 975px;
+	margin: 0 -20px 10px 0;
+	border-bottom: 1px solid green;
+
+}
 
 .skillsItem {
 	height: 30px;
-	width: 225px;
+	width: 219px;
 	margin: 2px;
 	font-size: 20px;
 	line-height: 30px;
-	border: 1px solid green;
+	/* border: 1px solid green; */
 	display: inline-block;
 	vertical-align: top;
 	text-decoration: none;
 	padding-left: 6px;
 	text-align: left;
 	font-weight: normal;
+}
+
+.skillsItem:hover {
+	background-color: rgba(0,255,0,0.2);
+}
+
+.skillItemName {
+	height: 30px;
+	width: 120px;
+
+}
+
+.skillLevel {
+	vertical-align: center;
+	height: 20px;
+	width: 4px;
+	margin: -4.5px;
+	transform: rotateZ(35deg);
+	border: 1px solid green;
+}
+
+.green {
+	background-color: green;
 }
 
 .main {
@@ -154,8 +188,8 @@ a {
 .block {
 	height: 270px;
 	width: 480px;
-	margin: 5px;
-	border: 1px solid green;
+	margin: 6px 2px;
+	border: 1px solid rgba(0,255,0,0.2);
 	display: inline-block;
 	background-color: rgba(0,255,0,0.1);
 }
