@@ -189,13 +189,14 @@ a {
 	height: 270px;
 	width: 480px;
 	margin: 6px 2px;
-	border: 1px solid rgba(0,255,0,0.2);
+	border: 1px solid rgba(0,100,0,0.1);
 	display: inline-block;
 	background-color: rgba(0,255,0,0.1);
 }
 
 .block:hover {
 	opacity: 0.4;
+	border: 1px solid rgba(0,255,0,0.6);
 }
 
 .myProjects {
