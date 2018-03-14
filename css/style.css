@@ -17,10 +17,10 @@ h1 {
 	color: white;
 	position: absolute;
     left: 220px;
-    top: 220px;
-    font-size: 55px;
+    top: 240px;
+    font-size: 60px;
     font-weight: bold;
-    text-shadow: 4px 4px 6px black, -4px -4px 6px black; /* Параметры тени */
+    text-shadow: 0 4px 6px black, 4px 0 6px black,-0 -4px 6px black, -4px 0 6px black; /* Параметры тени */
 }
 div {
 	display: inline-block;
@@ -29,12 +29,12 @@ div {
 .linkicons {
 	width: 35px;
 	height: 35px;
-	margin: 5px 5px 0 -5px;
+	margin: 3px 0 3px 955px;
 	color: black;
 	font-size: 35px;
 	line-height: 35px;
 	text-align: center;
-	display: inline-block;
+	display: block;
 	border-radius: 2px;
 }
 
@@ -81,9 +81,9 @@ div {
 
 
 .coverFon {
-	height: 320px;
+	height: 344px;
 	width: 1000px;
-	margin: 5px 0;
+	/* margin: 5px 0; */
 	margin-bottom: 100px;
 	background-image: url(fon.jpg);
 	background-size: cover;
@@ -100,7 +100,7 @@ div {
 	border: 1px solid black;
 	position: absolute;
 	left: 30px;
-	margin-top: 195px;
+	margin-top: -130px;
 	border-radius: 3px;
 }
 
@@ -165,6 +165,7 @@ text-align: left;
 
 .skillLevel {
 	vertical-align: center;
+	border-radius: 4px;
 	height: 20px;
 	width: 4px;
 	margin: -4.5px;
