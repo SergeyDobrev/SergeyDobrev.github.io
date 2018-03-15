@@ -13,84 +13,114 @@ img {
     max-height: 100%;
 }
 
-h1 {
-	color: white;
-	position: absolute;
-    left: 220px;
-    top: 240px;
-    font-size: 60px;
-    font-weight: bold;
-    text-shadow: 0 4px 6px black, 4px 0 6px black,-0 -4px 6px black, -4px 0 6px black; /* Параметры тени */
+.main {
+	width: 1000px;
+	margin: 0 calc((100% - 1000px) / 2);
+	margin-top: 20px;
 }
-div {
-	display: inline-block;
-}
-
-.linkicons {
-	width: 35px;
-	height: 35px;
-	margin: 3px 0 3px 955px;
-	color: black;
-	font-size: 35px;
-	line-height: 35px;
-	text-align: center;
-	display: block;
-	border-radius: 2px;
-}
-
-.linkicons:hover {
-	color: white;
-}
-
-.google:hover {
-	background-color: #db4437;
-}
-
-.linkedin:hover {
-	background-color: #0084bf;
-}
-
-.github:hover {
-	background-color: #24292e;
-}
-
-.codepen:hover {
-	background-color: #24292e;
-	color: gray;
-}
-
-.facebook:hover {
-	background-color: #3b5998;
-}
-
-.skype:hover {
-	background-color: #00aff0;
-}
-
-.ukrnet:hover {
-	background-color: #82af32;
-}
-
-.telephone:hover {
-	background-color: #db4437;
-}
-
-.paper:hover {
-	background-color: green;
-}
-
 
 .coverFon {
-	height: 344px;
+	height: 349px;
 	width: 1000px;
-	/* margin: 5px 0; */
 	margin-bottom: 100px;
 	background-image: url(fon.jpg);
 	background-size: cover;
 	background-position: center;
 	position: relative;
 	text-align: right;
+}
 
+.fio {
+	color: white;
+	position: absolute;
+    left: 220px;
+    top: 285px;
+    font-size: 60px;
+    font-weight: bold;
+    text-shadow: 0 4px 6px black, 4px 0 6px black,-0 -4px 6px black, -4px 0 6px black; /* Параметры тени */
+}
+
+.linkbox {
+	width: 300px;
+	height: 37px;
+	margin: 2px 0 0 700px;
+	display: block;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.linktext {
+	width: 249px;
+	height: 37px;
+	line-height: 37px;
+	color: transparent;
+	font-size: 13px;
+	font-weight: bold;
+	vertical-align: top;
+	display: inline-block;
+	text-align: right;
+}
+
+.linkicon {
+	width: 35px;
+	height: 35px;
+	margin: 1px 3px;
+	border-radius: 2px;	
+	color: black;
+	font-size: 35px;
+	line-height: 35px;
+	text-align: center;
+	display: inline-block;
+}
+
+.linkbox:hover {
+	background-image: linear-gradient(270deg, rgba(100,100,100,0.5), transparent);
+}
+
+.linkbox:hover .linktext {
+	color: black;
+	text-shadow: 0 2px 1px white, 2px 0 1px white,-0 -2px 1px white, -2px 0 1px white; 
+}
+
+.linkbox:hover .linkicon {
+	color: white;
+}
+
+.linkbox:hover .telephone {
+	background-color: #db4437;
+}
+
+.linkbox:hover .ukrnet {
+	background-color: #82af32;
+}
+
+.linkbox:hover .google {
+	background-color: #db4437;
+}
+
+.linkbox:hover .skype {
+	background-color: #00aff0;
+}
+
+.linkbox:hover .linkedin {
+	background-color: #0084bf;
+}
+
+.linkbox:hover .github {
+	background-color: #24292e;
+}
+
+.linkbox:hover .codepen {
+	background-color: #24292e;
+	color: gray;
+}
+
+.linkbox:hover .facebook {
+	background-color: #3b5998;
+}
+
+.linkbox:hover .paper {
+	background-color: green;
 }
 
 .coverPhoto {
@@ -104,12 +134,9 @@ div {
 	border-radius: 3px;
 }
 
-
 .coverPhoto2 {
 	height: 160px;
 	width: 160px;
-
-	/* position: fixed; */
 	border: 5px solid white;
 	color: green;
 	text-align: center;
@@ -119,21 +146,21 @@ div {
 }
 
 .skillsBlock {
-
 	width: 1000px;
 	margin: -60px 0 5px 0;
 	text-align: left;
 	font-size: 32px;
-	/* padding-top: 10px; */
-	/* border: 1px solid green; */
 	font-weight: bold;
 	color: green;
+	display: inline-block;
 }
+
 .skillsTitle {
 	width: 1000px;
 	margin: 0 -0 10px 0;
 	border-bottom: 1px solid green;
 	text-align: right;
+	display: inline-block;
 
 }
 
@@ -143,13 +170,12 @@ div {
 	margin: 2px 0;
 	font-size: 20px;
 	line-height: 30px;
-	/* border: 1px solid green; */
 	display: inline-block;
 	vertical-align: top;
 	text-decoration: none;
-	/* padding-left: 6px; */
-text-align: left;
+	text-align: left;
 	font-weight: normal;
+	display: inline-block;
 }
 
 .skillsItem:hover {
@@ -160,6 +186,7 @@ text-align: left;
 	height: 30px;
 	width: 135px;
 	color: green;
+	display: inline-block;
 
 }
 
@@ -171,16 +198,11 @@ text-align: left;
 	margin: -4.5px;
 	transform: rotateZ(35deg);
 	border: 1px solid green;
+	display: inline-block;
 }
 
 .green {
 	background-color: green;
-}
-
-.main {
-	width: 1000px;
-	margin: 0 calc((100% - 1000px) / 2);
-	margin-top: 20px;
 }
 
 .block {
@@ -200,4 +222,3 @@ text-align: left;
 	opacity: 0.4;
 	border: 1px solid rgba(0,255,0,0.6);
 }
-
