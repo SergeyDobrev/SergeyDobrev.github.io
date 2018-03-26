@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<div id="myDiv">
+    	<h2>Ajax поменяет этот текст</h2>
+	</div>
+	<button type="button" onclick="makeXHR()">Послать AJAX запрос</button>
+	<script type="text/javascript">
+		function makeXHR()
+			{
+			    var xhr=new XMLHttpRequest(); //создание объекта для работы с асинхронными запросами
+
+			    xhr.onreadystatechange=function() {
+			        if (xhr.readyState==4 && xhr.status==200) {
+			        	var  obj = JSON.parse(xhr.responseText);
+
+			            document.getElementById('myDiv').innerHTML=obj.name + ' ' + obj.lastname;
+			            var objButton = document.querySelector('button');
+			    		objButton.parentNode.removeChild(objButton);
+			        }
+			    }
+
+
+
+			    //формирование запроса 
+			    xhr.open("GET","ajax_info.txt",true);
+			    //отправка запроса
+			    xhr.send();
+			}
+	</script>
+</body>
+</html>
