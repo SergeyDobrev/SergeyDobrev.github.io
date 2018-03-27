@@ -3,34 +3,11 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
+	<link rel="stylesheet" href="ionicons-2.0.1/css/ionicons.min.css">
+	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-	<div id="myDiv">
-    	<h2>Ajax поменяет этот текст</h2>
-	</div>
-	<button type="button" onclick="makeXHR()">Послать AJAX запрос</button>
-	<script type="text/javascript">
-		function makeXHR()
-			{
-			    var xhr=new XMLHttpRequest(); //создание объекта для работы с асинхронными запросами
-
-			    xhr.onreadystatechange=function() {
-			        if (xhr.readyState==4 && xhr.status==200) {
-			        	var  obj = JSON.parse(xhr.responseText);
-
-			            document.getElementById('myDiv').innerHTML=obj.name + ' ' + obj.lastname;
-			            var objButton = document.querySelector('button');
-			    		objButton.parentNode.removeChild(objButton);
-			        }
-			    }
-
-
-
-			    //формирование запроса 
-			    xhr.open("GET","ajax_info.txt",true);
-			    //отправка запроса
-			    xhr.send();
-			}
-	</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script type="text/javascript" src="script.js"></script>
 </body>
 </html>

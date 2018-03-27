@@ -1,0 +1,44 @@
+[
+	[	["main", "coverFon", "fio", "coverPhotoBorder", "coverPhoto"],
+		["body", ".main", ".coverFon", ".coverFon", ".coverPhotoBorder"],
+		[".fio", "Sergey Dobrev"]
+	],
+	[	
+		[	{"class":"linkbox","href":"tel:+380503348863","title":"my telephone"},
+			{"class":"linktext","text":"+38(050)3348863"},
+			{"class":"linkicon ion-ios-telephone-outline telephone"}
+		],
+		[	{"class":"linkbox","href":"mailto:sergey_dobrev@ukr.net","title":"my ukrnet mail"},
+			{"class":"linktext","text":"sergey_dobrev@ukr.net"},
+			{"class":"linkicon ion-ios-email-outline ukrnet"}
+		],
+		[	{"class":"linkbox","href":"mailto:dobrev.sergey@gmail.com","title":"my google mail"},
+			{"class":"linktext","text":"dobrev.sergey@gmail.com"},
+			{"class":"linkicon ion-social-google-outline google"}
+		],
+		[	{"class":"linkbox","href":"skype: sergey.dobrev?call","title":"my skype"},
+			{"class":"linktext","text":"skype:sergey.dobrev"},
+			{"class":"linkicon ion-social-skype-outline skype"}
+		],
+		[	{"class":"linkbox","href":"https://www.linkedin.com/in/sergey-dobrev/","title":"my linkedin","target":"_blank"},
+			{"class":"linktext","text":"linkedin.com/in/sergey&#8209;dobrev"},
+			{"class":"linkicon ion-social-linkedin-outline linkedin"}
+		],
+		[	{"class":"linkbox","href":"https://github.com/SergeyDobrev","title":"my github","target":"_blank"},
+			{"class":"linktext","text":"github.com/SergeyDobrev"},
+			{"class":"linkicon ion-social-github github"}
+		],
+		[	{"class":"linkbox","href":"https://codepen.io/dobrev_sergey/","title":"my codepen","target":"_blank"},
+			{"class":"linktext","text":"codepen.io/dobrev_sergey"},
+			{"class":"linkicon ion-social-codepen-outline codepen"}
+		],
+		[	{"class":"linkbox","href":"https://www.facebook.com/sergey.dobrev.520","title":"my facebook","target":"_blank"},
+			{"class":"linktext","text":"facebook.com/sergey.dobrev.520"},
+			{"class":"linkicon ion-social-facebook-outline facebook"}
+		],
+		[	{"class":"linkbox","href":"https://sergeydobrev.github.io/CV_Sergey_Dobrev.pdf","title":"my pdf cv","target":"_blank"},
+			{"class":"linktext","text":"CV_Sergey_Dobrev.pdf"},
+			{"class":"linkicon ion-ios-printer-outline paper"}				
+		]
+	]
+]
