@@ -1,5 +1,5 @@
 [
-	[	["main", "coverFon", "fio", "coverPhotoBorder", "coverPhoto"],
+	[	[{"class":"main"},{"class":"coverFon"},{"class":"fio"},{"class":"coverPhotoBorder"},{"class":"coverPhoto"}],
 		["body", ".main", ".coverFon", ".coverFon", ".coverPhotoBorder"],
 		[".fio", "Sergey Dobrev"]
 	],
@@ -39,6 +39,45 @@
 		[	{"class":"linkbox","href":"https://sergeydobrev.github.io/CV_Sergey_Dobrev.pdf","title":"my pdf cv","target":"_blank"},
 			{"class":"linktext","text":"CV_Sergey_Dobrev.pdf"},
 			{"class":"linkicon ion-ios-printer-outline paper"}				
+		]
+	],
+	[{"class":"skillsBlock"},{"class":"skillsTitle"}],
+	["my Skills & Certificates","my Projects"],
+	[	[	{"class":"skillsItem","href":""},
+			{"class":"skillItemName","text":"JavaScript"},7,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP16641609","title":"Certificate","target":"_blank"},
+			{"class":"skillItemName","text":"HTML5/CSS3"},8,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP16641609","title":"Certificate","target":"_blank"},
+			{"class":"skillItemName","text":"Bootstrap"},8,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":""},
+			{"class":"skillItemName","text":"SASS/SCSS"},4,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP16641609","title":"Certificate","target":"_blank"},
+			{"class":"skillItemName","text":"jQuery"},9,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP16641609","title":"Certificate","target":"_blank"},
+			{"class":"skillItemName","text":"Angular"},9,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":""},
+			{"class":"skillItemName","text":"React"},3,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":""},
+			{"class":"skillItemName","text":"ES6/ES7"},4,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP16641609","title":"Certificate","target":"_blank"},
+			{"class":"skillItemName","text":"PHP"},10,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP16641609","title":"Certificate","target":"_blank"},
+			{"class":"skillItemName","text":"SQL"},8,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":""},
+			{"class":"skillItemName","text":"NodeJS/NPM"},4,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":""},
+			{"class":"skillItemName","text":"English"},4,"skillLevel green"
 		]
 	]
 ]
