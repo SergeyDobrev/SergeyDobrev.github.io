@@ -49,28 +49,28 @@
 		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP16641609","title":"Certificate","target":"_blank"},
 			{"class":"skillItemName","text":"HTML5/CSS3"},8,"skillLevel green"
 		],
-		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP16641609","title":"Certificate","target":"_blank"},
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP60170150","title":"Certificate","target":"_blank"},
 			{"class":"skillItemName","text":"Bootstrap"},8,"skillLevel green"
 		],
 		[	{"class":"skillsItem","href":""},
 			{"class":"skillItemName","text":"SASS/SCSS"},4,"skillLevel green"
 		],
-		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP16641609","title":"Certificate","target":"_blank"},
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP66953978","title":"Certificate","target":"_blank"},
 			{"class":"skillItemName","text":"jQuery"},9,"skillLevel green"
 		],
-		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP16641609","title":"Certificate","target":"_blank"},
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP88117427","title":"Certificate","target":"_blank"},
 			{"class":"skillItemName","text":"Angular"},9,"skillLevel green"
 		],
-		[	{"class":"skillsItem","href":""},
-			{"class":"skillItemName","text":"React"},3,"skillLevel green"
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP56988904","title":"Certificate","target":"_blank"},
+			{"class":"skillItemName","text":"React"},9,"skillLevel green"
 		],
 		[	{"class":"skillsItem","href":""},
 			{"class":"skillItemName","text":"ES6/ES7"},4,"skillLevel green"
 		],
-		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP16641609","title":"Certificate","target":"_blank"},
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP60902072","title":"Certificate","target":"_blank"},
 			{"class":"skillItemName","text":"PHP"},10,"skillLevel green"
 		],
-		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP16641609","title":"Certificate","target":"_blank"},
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP84648860","title":"Certificate","target":"_blank"},
 			{"class":"skillItemName","text":"SQL"},8,"skillLevel green"
 		],
 		[	{"class":"skillsItem","href":""},
