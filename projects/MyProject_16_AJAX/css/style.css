@@ -228,7 +228,7 @@ img {
 	font-size: 20px;
 	line-height: 30px;
 	display: inline-block;
-	/* vertical-align: top; */
+	vertical-align: bottom;
 	text-decoration: none;
 	text-align: left;
 	font-weight: normal;
@@ -241,12 +241,13 @@ img {
 }
 
 .skillItemName {
-	height: 36px;
-	width: 135px;
+	height: 30px;
+	width: 150px;
 	color: green;
+	/* text-align: left; */
 	display: inline-block;
-	 vertical-align: top;
-	 line-height: 30px; 
+	vertical-align: top;
+	line-height: 30px; 
 }
 
 .skillLevel {
@@ -254,11 +255,12 @@ img {
 	border-radius: 4px;
 	height: 20px;
 	width: 4px;
-	margin: 2px;
+	margin: 1.5px;
 	transform: rotateZ(35deg);
 	border: 1px solid green;
 	display: inline-block;
-	/* vertical-align: top; */
+	/* text-align: left; */
+	vertical-align: top;
 }
 
 .green {
