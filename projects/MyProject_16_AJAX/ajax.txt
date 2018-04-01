@@ -79,5 +79,54 @@
 		[	{"class":"skillsItem","href":""},
 			{"class":"skillItemName","text":"English"},4,"skillLevel green"
 		]
+	],
+	[	[	{"class":"block","href":"../MyProject_04/index.html","target":"_blank"},
+			{"src":"css/BGp01.jpg","title":"JS jQuery project"}
+		],
+		[	{"class":"block blockR","href":"../MyProject_02/index.html","target":"_blank"},
+			{"src":"css/BGp02.jpg","title":"JS jQuery project"}
+		],
+		[	{"class":"block","href":"../MyProject_06/index.html","target":"_blank"},
+			{"src":"css/BGp03.jpg","title":"JS jQuery project"}
+		],
+		[	{"class":"block blockR","href":"../MyProject_05/index.html","target":"_blank"},
+			{"src":"css/BGp04.jpg","title":"JS jQuery project"}
+		],
+		[	{"class":"block","href":"../MyProject_01/index.html","target":"_blank"},
+			{"src":"css/BGp05.jpg","title":"JS jQuery Bootstrap project"}
+		],
+		[	{"class":"block blockR","href":"../MyProject_03/index.html","target":"_blank"},
+			{"src":"css/BGp06.jpg","title":"JS jQuery project"}
+		],
+		[	{"class":"block","href":"../MyProject_07/index.html","target":"_blank"},
+			{"src":"css/BGp07.jpg","title":"JS Canvas project"}
+		],
+		[	{"class":"block blockR","href":"../MyProject_10_Block_Out/index","target":"_blank"},
+			{"src":"css/BGp15.jpg","title":"JS SVG project"}
+		],
+		[	{"class":"block","href":"../MyProject_09_old_HTML5-CCS3_gridelicious_6/index.html","target":"_blank"},
+			{"src":"css/BGp09.jpg","title":"HTM5 CSS3 Bootstrap project"}
+		],
+		[	{"class":"block blockR","href":"../MyProject_12_old_surfers-co/index.html","target":"_blank"},
+			{"src":"css/BGp12.jpg","title":"HTM5 CSS3 psd project"}
+		],
+		[	{"class":"block","href":"../MyProject_14_old_smashingmagazine/index-2.html","target":"_blank"},
+			{"src":"css/BGp14.jpg","title":"HTM5 CSS3 Адаптивная верстка"}
+		],
+		[	{"class":"block blockR","href":"../MyProject_15_old_bakery/index_v2","target":"_blank"},
+			{"src":"css/BGp11.jpg","title":"HTM5 CSS3 project"}
+		],
+		[	{"class":"block","href":"../MyProject_11_old_Freelance/index-fl.html","target":"_blank"},
+			{"src":"css/BGp10.jpg","title":"HTM5 CSS3 Freelance project"}
+		],
+		[	{"class":"block blockR","href":"../projects/MyProject_08_old_HTML5-CCS3_Airbnb/index.html","target":"_blank"},
+			{"src":"css/BGp08.jpg","title":"HTM5 CSS3 project"}
+		],
+		[	{"class":"block","href":"#","title":"my future projects"},
+			{"src":""}
+		],
+		[	{"class":"block blockR","href":"#","title":"my future projects"},
+			{"src":""}
+		]
 	]
 ]

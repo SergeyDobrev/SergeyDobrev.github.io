@@ -36,23 +36,15 @@
 			$(obj3).attr(objAjax[1][i][2]);	
 		}
 
-			var obj4 = document.createElement('div');
-			$(objAjax[0][1][1]).append(obj4);
-			$(obj4).attr(objAjax[2][0]);
+		var obj4 = document.createElement('div');
+		$(objAjax[0][1][1]).append(obj4);
+		$(obj4).attr(objAjax[2][0]);
 
-			var obj5 = document.createElement('div');
-			$(obj4).append(obj5);
-			$(obj5).attr(objAjax[2][1]);
-			$(obj5).text(objAjax[3][0]);
+		var obj5 = document.createElement('div');
+		$(obj4).append(obj5);
+		$(obj5).attr(objAjax[2][1]);
+		$(obj5).text(objAjax[3][0]);
 
-			var obj6 = document.createElement('div');
-			$(objAjax[0][1][1]).append(obj6);
-			$(obj6).attr(objAjax[2][0]);
-
-			var obj7 = document.createElement('div');
-			$(obj6).append(obj7);
-			$(obj7).attr(objAjax[2][1]);
-			$(obj7).text(objAjax[3][1]);	
 
 		for (var i = 0; i < objAjax[4].length; i++) {
 			var obj8 = document.createElement('a');
@@ -72,7 +64,27 @@
 					$(obj10).addClass('skillLevel');								
 				}
 			}
-		}	
+		}
+
+		var obj6 = document.createElement('div');
+		$(objAjax[0][1][1]).append(obj6);
+		$(obj6).attr(objAjax[2][0]);
+
+		var obj7 = document.createElement('div');
+		$(obj6).append(obj7);
+		$(obj7).attr(objAjax[2][1]);
+		$(obj7).text(objAjax[3][1]);	
+
+		for (var i = 0; i < objAjax[5].length; i++) {
+			var obj11 = document.createElement('a');
+			$(objAjax[0][1][1]).append(obj11);
+			$(obj11).attr(objAjax[5][i][0]);
+
+			var obj12 = document.createElement('img');
+			$(obj11).append(obj12);
+			$(obj12).attr(objAjax[5][i][1]);			
+		}
+
 	}
 
 })();
