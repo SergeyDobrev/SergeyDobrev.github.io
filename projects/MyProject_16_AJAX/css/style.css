@@ -68,6 +68,7 @@ img {
 	text-align: right;
 	transition: width 3s, color 3s, text-shadow 3s;	
 	overflow: hidden;
+	white-space: nowrap;
 }
 
 .linkicon {

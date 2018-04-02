@@ -1,0 +1,132 @@
+[
+	[	[{"class":"main"},{"class":"coverFon"},{"class":"fio"},{"class":"coverPhotoBorder"},{"class":"coverPhoto"}],
+		["body", ".main", ".coverFon", ".coverFon", ".coverPhotoBorder"],
+		[".fio", "Sergey Dobrev"]
+	],
+	[	
+		[	{"class":"linkbox","href":"tel:+380503348863","title":"my telephone"},
+			{"class":"linktext","text":"+38(050)3348863"},
+			{"class":"linkicon ion-ios-telephone-outline telephone"}
+		],
+		[	{"class":"linkbox","href":"mailto:sergey_dobrev@ukr.net","title":"my ukrnet mail"},
+			{"class":"linktext","text":"sergey_dobrev@ukr.net"},
+			{"class":"linkicon ion-ios-email-outline ukrnet"}
+		],
+		[	{"class":"linkbox","href":"mailto:dobrev.sergey@gmail.com","title":"my google mail"},
+			{"class":"linktext","text":"dobrev.sergey@gmail.com"},
+			{"class":"linkicon ion-social-google-outline google"}
+		],
+		[	{"class":"linkbox","href":"skype: sergey.dobrev?call","title":"my skype"},
+			{"class":"linktext","text":"skype:sergey.dobrev"},
+			{"class":"linkicon ion-social-skype-outline skype"}
+		],
+		[	{"class":"linkbox","href":"https://www.linkedin.com/in/sergey-dobrev/","title":"my linkedin","target":"_blank"},
+			{"class":"linktext","text":"linkedin.com/in/sergey&#8209;dobrev"},
+			{"class":"linkicon ion-social-linkedin-outline linkedin"}
+		],
+		[	{"class":"linkbox","href":"https://github.com/SergeyDobrev","title":"my github","target":"_blank"},
+			{"class":"linktext","text":"github.com/SergeyDobrev"},
+			{"class":"linkicon ion-social-github github"}
+		],
+		[	{"class":"linkbox","href":"https://codepen.io/dobrev_sergey/","title":"my codepen","target":"_blank"},
+			{"class":"linktext","text":"codepen.io/dobrev_sergey"},
+			{"class":"linkicon ion-social-codepen-outline codepen"}
+		],
+		[	{"class":"linkbox","href":"https://www.facebook.com/sergey.dobrev.520","title":"my facebook","target":"_blank"},
+			{"class":"linktext","text":"facebook.com/sergey.dobrev.520"},
+			{"class":"linkicon ion-social-facebook-outline facebook"}
+		],
+		[	{"class":"linkbox","href":"https://sergeydobrev.github.io/CV_Sergey_Dobrev.pdf","title":"my pdf cv","target":"_blank"},
+			{"class":"linktext","text":"CV_Sergey_Dobrev.pdf"},
+			{"class":"linkicon ion-ios-printer-outline paper"}				
+		]
+	],
+	[{"class":"skillsBlock"},{"class":"skillsTitle"}],
+	["my Skills & Certificates","my Projects"],
+	[	[	{"class":"skillsItem","href":""},
+			{"class":"skillItemName","text":"JavaScript"},7,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP16641609","title":"Certificate","target":"_blank"},
+			{"class":"skillItemName","text":"HTML5/CSS3"},8,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP60170150","title":"Certificate","target":"_blank"},
+			{"class":"skillItemName","text":"Bootstrap"},8,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":""},
+			{"class":"skillItemName","text":"SASS/SCSS"},4,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP66953978","title":"Certificate","target":"_blank"},
+			{"class":"skillItemName","text":"jQuery"},9,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP88117427","title":"Certificate","target":"_blank"},
+			{"class":"skillItemName","text":"Angular"},9,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP56988904","title":"Certificate","target":"_blank"},
+			{"class":"skillItemName","text":"React"},9,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":""},
+			{"class":"skillItemName","text":"ES6/ES7"},4,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP60902072","title":"Certificate","target":"_blank"},
+			{"class":"skillItemName","text":"PHP"},10,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP84648860","title":"Certificate","target":"_blank"},
+			{"class":"skillItemName","text":"SQL"},8,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":""},
+			{"class":"skillItemName","text":"NodeJS/NPM"},4,"skillLevel green"
+		],
+		[	{"class":"skillsItem","href":""},
+			{"class":"skillItemName","text":"English"},4,"skillLevel green"
+		]
+	],
+	[	[	{"class":"block","href":"../MyProject_04/index.html","target":"_blank"},
+			{"src":"css/BGp01.jpg","title":"JS jQuery project"}
+		],
+		[	{"class":"block blockR","href":"../MyProject_02/index.html","target":"_blank"},
+			{"src":"css/BGp02.jpg","title":"JS jQuery project"}
+		],
+		[	{"class":"block","href":"../MyProject_06/index.html","target":"_blank"},
+			{"src":"css/BGp03.jpg","title":"JS jQuery project"}
+		],
+		[	{"class":"block blockR","href":"../MyProject_05/index.html","target":"_blank"},
+			{"src":"css/BGp04.jpg","title":"JS jQuery project"}
+		],
+		[	{"class":"block","href":"../MyProject_01/index.html","target":"_blank"},
+			{"src":"css/BGp05.jpg","title":"JS jQuery Bootstrap project"}
+		],
+		[	{"class":"block blockR","href":"../MyProject_03/index.html","target":"_blank"},
+			{"src":"css/BGp06.jpg","title":"JS jQuery project"}
+		],
+		[	{"class":"block","href":"../MyProject_07/index.html","target":"_blank"},
+			{"src":"css/BGp07.jpg","title":"JS Canvas project"}
+		],
+		[	{"class":"block blockR","href":"../MyProject_10_Block_Out/index","target":"_blank"},
+			{"src":"css/BGp15.jpg","title":"JS SVG project"}
+		],
+		[	{"class":"block","href":"../MyProject_09_old_HTML5-CCS3_gridelicious_6/index.html","target":"_blank"},
+			{"src":"css/BGp09.jpg","title":"HTM5 CSS3 Bootstrap project"}
+		],
+		[	{"class":"block blockR","href":"../MyProject_12_old_surfers-co/index.html","target":"_blank"},
+			{"src":"css/BGp12.jpg","title":"HTM5 CSS3 psd project"}
+		],
+		[	{"class":"block","href":"../MyProject_14_old_smashingmagazine/index-2.html","target":"_blank"},
+			{"src":"css/BGp14.jpg","title":"HTM5 CSS3 Адаптивная верстка"}
+		],
+		[	{"class":"block blockR","href":"../MyProject_15_old_bakery/index_v2","target":"_blank"},
+			{"src":"css/BGp11.jpg","title":"HTM5 CSS3 project"}
+		],
+		[	{"class":"block","href":"../MyProject_11_old_Freelance/index-fl.html","target":"_blank"},
+			{"src":"css/BGp10.jpg","title":"HTM5 CSS3 Freelance project"}
+		],
+		[	{"class":"block blockR","href":"../projects/MyProject_08_old_HTML5-CCS3_Airbnb/index.html","target":"_blank"},
+			{"src":"css/BGp08.jpg","title":"HTM5 CSS3 project"}
+		],
+		[	{"class":"block","href":"#","title":"my future projects"},
+			{"src":""}
+		],
+		[	{"class":"block blockR","href":"#","title":"my future projects"},
+			{"src":""}
+		]
+	]
+]
