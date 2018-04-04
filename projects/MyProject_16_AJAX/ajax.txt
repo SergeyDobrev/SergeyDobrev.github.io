@@ -173,12 +173,12 @@
 
 	{	"tagVal":		"a",
 		"parrentVal":	"#skillsBlock",
-		"attrVal":		{"id":"skill00","class":"skillsItem","href":"#"}
+		"attrVal":		{"id":"skill00","class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP52731086","title":"Certificate","target":"_blank"}
 	},	
 	{	"tagVal":		"div",
 		"parrentVal":	"#skill00",
 		"attrVal":		{"id":"skill000","class":"skillItemName"},
-		"levelVal":		7,
+		"levelVal":		9,
 		"textVal":		"JavaScript"
 	},
 
@@ -321,12 +321,29 @@
 		"attrVal":		{"id":"projectBlock","class":"skillsBlock"}
 	},
 	{	"tagVal":		"div",
-		"parrentVal":	"#skillsBlock",
+		"parrentVal":	"#projectBlock",
 		"attrVal":		{"id":"projectTitle","class":"skillsTitle"},
 		"textVal":		"my Projects"
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#main",
+		"attrVal":		{"id":"Block00","class":"block","href":"../MyProject_04/index.html","target":"_blank"}
+	},
+	{	"tagVal":		"img",
+		"parrentVal":	"#Block00",
+		"attrVal":		{"src":"css/BGp01.jpg","title":"JS jQuery project"}
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#main",
+		"attrVal":		{"id":"Block01","class":"block blockR","href":"../MyProject_02/index.html","target":"_blank"}
+	},
+	{	"tagVal":		"img",
+		"parrentVal":	"#Block01",
+		"attrVal":		{"src":"css/BGp02.jpg","title":"JS jQuery project"}
 	}
-
-
-
 
 ]
