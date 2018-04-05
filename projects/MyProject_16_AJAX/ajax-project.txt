@@ -1,0 +1,21 @@
+[	
+	{	"tagVal":		"a",
+		"parrentVal":	"#main",
+		"attrVal":		{"id":"Block00","class":"block","href":"../MyProject_04/index.html","target":"_blank"}
+	},
+	{	"tagVal":		"img",
+		"parrentVal":	"#Block00",
+		"attrVal":		{"src":"css/BGp01.jpg","title":"JS jQuery project"}
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#main",
+		"attrVal":		{"id":"Block01","class":"block blockR","href":"../MyProject_02/index.html","target":"_blank"}
+	},
+	{	"tagVal":		"img",
+		"parrentVal":	"#Block01",
+		"attrVal":		{"src":"css/BGp02.jpg","title":"JS jQuery project"}
+	}
+
+]

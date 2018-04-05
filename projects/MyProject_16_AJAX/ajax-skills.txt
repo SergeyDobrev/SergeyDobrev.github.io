@@ -1,0 +1,143 @@
+[	{	"tagVal":		"a",
+		"parrentVal":	"#skillsBlock",
+		"attrVal":		{"id":"skill00","class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP52731086","title":"Certificate","target":"_blank"}
+	},	
+	{	"tagVal":		"div",
+		"parrentVal":	"#skill00",
+		"attrVal":		{"id":"skill000","class":"skillItemName"},
+		"levelVal":		9,
+		"textVal":		"JavaScript"
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#skillsBlock",
+		"attrVal":		{"id":"skill01","class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP16641609","title":"Certificate","target":"_blank"}
+	},	
+	{	"tagVal":		"div",
+		"parrentVal":	"#skill01",
+		"attrVal":		{"id":"skill010","class":"skillItemName"},
+		"levelVal":		8,
+		"textVal":		"HTML5/CSS3"
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#skillsBlock",
+		"attrVal":		{"id":"skill002","class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP60170150","title":"Certificate","target":"_blank"}
+	},	
+	{	"tagVal":		"div",
+		"parrentVal":	"#skill002",
+		"attrVal":		{"id":"skill0020","class":"skillItemName"},
+		"levelVal":		8,
+		"textVal":		"Bootstrap"
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#skillsBlock",
+		"attrVal":		{"id":"skill03","class":"skillsItem","href":"#"}
+	},	
+	{	"tagVal":		"div",
+		"parrentVal":	"#skill03",
+		"attrVal":		{"id":"skill030","class":"skillItemName"},
+		"levelVal":		4,
+		"textVal":		"SASS/SCSS"
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#skillsBlock",
+		"attrVal":		{"id":"skill04","class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP66953978","title":"Certificate","target":"_blank"}
+	},	
+	{	"tagVal":		"div",
+		"parrentVal":	"#skill04",
+		"attrVal":		{"id":"skill040","class":"skillItemName"},
+		"levelVal":		9,
+		"textVal":		"jQuery"
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#skillsBlock",
+		"attrVal":		{"id":"skill05","class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP88117427","title":"Certificate","target":"_blank"}
+	},	
+	{	"tagVal":		"div",
+		"parrentVal":	"#skill05",
+		"attrVal":		{"id":"skill050","class":"skillItemName"},
+		"levelVal":		9,
+		"textVal":		"Angular"
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#skillsBlock",
+		"attrVal":		{"id":"skill06","class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP56988904","title":"Certificate","target":"_blank"}
+	},	
+	{	"tagVal":		"div",
+		"parrentVal":	"#skill06",
+		"attrVal":		{"id":"skill060","class":"skillItemName"},
+		"levelVal":		9,
+		"textVal":		"React"
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#skillsBlock",
+		"attrVal":		{"id":"skill07","class":"skillsItem","href":"#"}
+	},	
+	{	"tagVal":		"div",
+		"parrentVal":	"#skill07",
+		"attrVal":		{"id":"skill070","class":"skillItemName"},
+		"levelVal":		4,
+		"textVal":		"ES6/ES7"
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#skillsBlock",
+		"attrVal":		{"id":"skill08","class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP60902072","title":"Certificate","target":"_blank"}
+	},	
+	{	"tagVal":		"div",
+		"parrentVal":	"#skill08",
+		"attrVal":		{"id":"skill080","class":"skillItemName"},
+		"levelVal":		10,
+		"textVal":		"PHP"
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#skillsBlock",
+		"attrVal":		{"id":"skill09","class":"skillsItem","href":"http://testprovider.com/ru/Certificate/Search/TP84648860","title":"Certificate","target":"_blank"}
+	},	
+	{	"tagVal":		"div",
+		"parrentVal":	"#skill09",
+		"attrVal":		{"id":"skill090","class":"skillItemName"},
+		"levelVal":		8,
+		"textVal":		"SQL"
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#skillsBlock",
+		"attrVal":		{"id":"skill10","class":"skillsItem","href":"#"}
+	},	
+	{	"tagVal":		"div",
+		"parrentVal":	"#skill10",
+		"attrVal":		{"id":"skill100","class":"skillItemName"},
+		"levelVal":		4,
+		"textVal":		"NodeJS/NPM"
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#skillsBlock",
+		"attrVal":		{"id":"skill11","class":"skillsItem","href":"#"}
+	},	
+	{	"tagVal":		"div",
+		"parrentVal":	"#skill11",
+		"attrVal":		{"id":"skill110","class":"skillItemName"},
+		"levelVal":		4,
+		"textVal":		"English"
+	}
+]

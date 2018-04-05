@@ -1,31 +1,42 @@
 (function() {
-	var xhr = new XMLHttpRequest(); 
-	xhr.open("GET","ajax.txt",true);
-	xhr.send();
-	xhr.onreadystatechange = function() {
-		if (xhr.readyState === 4 && xhr.status === 200) {
-			var obj = JSON.parse(xhr.responseText);
+	var myArray = ['ajax-main.txt', 'ajax-links.txt', 'ajax-skills.txt', 'ajax-project.txt'];
 
-			for (var i = 0; i < obj.length; i++) {
+	for (var n = 0; n < myArray.length; n++) {
+		AjaxFun(myArray[n]);
+	}
 
-				var tmp = document.createElement(obj[i].tagVal);
-				$(obj[i].parrentVal).append(tmp);
-				$(tmp).attr(obj[i].attrVal);
+	function AjaxFun(textFile) {
+		var xhr = new XMLHttpRequest(); 
+		xhr.open("GET",textFile,true);
+		xhr.send();
+		xhr.onreadystatechange = function() {
+			if (xhr.readyState === 4 && xhr.status === 200) {
+				var obj = JSON.parse(xhr.responseText);
+				for (var i = 0; i < obj.length; i++) {
 
-				if (obj[i].textVal != undefined ) $(tmp).text(obj[i].textVal);
+					var tmp = document.createElement(obj[i].tagVal);
+					$(obj[i].parrentVal).append(tmp);
+					$(tmp).attr(obj[i].attrVal);
 
-				if (obj[i].attrVal.class === 'skillItemName') {
+					if (obj[i].textVal != undefined ) $(tmp).text(obj[i].textVal);
 
-					for (var j = 0; j < 10; j++) {
+					if (obj[i].attrVal.class === 'skillItemName') {
 
-						var skl = document.createElement('div');
-						$(obj[i].parrentVal).append(skl);
+						for (var j = 0; j < 10; j++) {
 
-						if (j < obj[i].levelVal) $(skl).addClass('skillLevel green');
-						else $(skl).addClass('skillLevel');
+							var skl = document.createElement('div');
+							$(obj[i].parrentVal).append(skl);
+
+							if (j < obj[i].levelVal) $(skl).addClass('skillLevel green');
+							else $(skl).addClass('skillLevel');
+						}
 					}
 				}
 			}
+
+
 		}
 	}
+
+
 })();

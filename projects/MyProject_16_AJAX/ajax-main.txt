@@ -1,0 +1,48 @@
+[	{	"tagVal":		"div",
+		"parrentVal":	"body",
+		"attrVal":		{"id":"main","class":"main"}
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#main",
+		"attrVal":		{"id":"coverFon","class":"coverFon"}
+	},
+
+
+	{	"tagVal":		"div",
+		"parrentVal":	"#coverFon",
+		"attrVal":		{"id":"fio","class":"fio"},
+		"textVal":		"Sergey Dobrev"
+	},
+
+
+	{	"tagVal":		"div",
+		"parrentVal":	"#coverFon",
+		"attrVal":		{"id":"coverPhotoBorder","class":"coverPhotoBorder"}
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#coverPhotoBorder",
+		"attrVal":		{"id":"coverPhoto","class":"coverPhoto"}
+	},
+
+
+	{	"tagVal":		"div",
+		"parrentVal":	"#main",
+		"attrVal":		{"id":"skillsBlock","class":"skillsBlock"}
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#skillsBlock",
+		"attrVal":		{"id":"skillsTitle","class":"skillsTitle"},
+		"textVal":		"my Skills & Certificates"
+	},
+
+
+	{	"tagVal":		"div",
+		"parrentVal":	"#main",
+		"attrVal":		{"id":"projectBlock","class":"skillsBlock"}
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#projectBlock",
+		"attrVal":		{"id":"projectTitle","class":"skillsTitle"},
+		"textVal":		"my Projects"
+	}
+]
