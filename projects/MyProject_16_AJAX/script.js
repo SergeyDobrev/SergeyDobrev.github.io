@@ -1,4 +1,4 @@
-(function() {
+window.onload = function() {
 	var myArray = ['ajax-main.txt', 'ajax-links.txt', 'ajax-skills.txt', 'ajax-project.txt'];
 
 	for (var n = 0; n < myArray.length; n++) {
@@ -39,4 +39,4 @@
 	}
 
 
-})();
+}
