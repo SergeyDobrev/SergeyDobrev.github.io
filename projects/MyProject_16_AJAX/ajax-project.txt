@@ -16,6 +16,27 @@
 	{	"tagVal":		"img",
 		"parrentVal":	"#Block01",
 		"attrVal":		{"src":"css/BGp02.jpg","title":"JS jQuery project"}
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#main",
+		"attrVal":		{"id":"Block02","class":"block","href":"../MyProject_06/index.html","target":"_blank"}
+	},
+	{	"tagVal":		"img",
+		"parrentVal":	"#Block02",
+		"attrVal":		{"src":"css/BGp03.jpg","title":"JS jQuery project"}
+	},
+
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#main",
+		"attrVal":		{"id":"Block04","class":"block blockR","href":"../MyProject_05/index.html","target":"_blank"}
+	},
+	{	"tagVal":		"img",
+		"parrentVal":	"#Block04",
+		"attrVal":		{"src":"css/BGp04.jpg","title":"JS jQuery project"}
 	}
+
 
 ]
