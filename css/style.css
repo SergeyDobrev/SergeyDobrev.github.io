@@ -1,6 +1,6 @@
 html, body {
 	height: 100%;
-	background-color: black;
+	/* background-color: black; */
 	font-family: Courier;
 	font-style: italic;
 }
@@ -207,14 +207,14 @@ img {
 	text-align: left;
 	font-size: 32px;
 	font-weight: bold;
-	color: green;
+	color: midnightblue;
 	display: inline-block;
 }
 
 .skillsTitle {
 	width: 1000px;
 	margin: 0 -0 10px 0;
-	border-bottom: 1px solid green;
+	border-bottom: 1px solid midnightblue;
 	text-align: right;
 	display: inline-block;
 
@@ -235,14 +235,14 @@ img {
 }
 
 .skillsItem:hover {
-	background-image: linear-gradient(to right, rgba(0,255,0,0.2), rgba(0,255,0,0.2) 50%, transparent);
+	background-image: linear-gradient(to right, rgba(25,25,112,0.2), rgba(25,25,112,0.2) 50%, transparent);
 
 }
 
 .skillItemName {
 	height: 30px;
 	width: 135px;
-	color: green;
+	color: midnightblue;
 	display: inline-block;
 
 }
@@ -254,12 +254,12 @@ img {
 	width: 4px;
 	margin: -4.5px;
 	transform: rotateZ(35deg);
-	border: 1px solid green;
+	border: 1px solid midnightblue;
 	display: inline-block;
 }
 
 .green {
-	background-color: rgba(0,128,0,0.7);
+	background-color: rgba(25,25,112,0.75);
 }
 
 .block {
