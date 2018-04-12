@@ -38,7 +38,7 @@ img {
     top: 285px;
     font-size: 60px;
     font-weight: bold;
-    text-shadow: 0 4px 6px black, 4px 0 6px black,-0 -4px 6px black, -4px 0 6px black;
+    text-shadow: 0 4px 6px midnightblue, 4px 0 6px midnightblue,-0 -4px 6px midnightblue, -4px 0 6px midnightblue;
     z-index: 2;
 }
 
@@ -50,7 +50,7 @@ img {
 	position: relative;
 	cursor: pointer;
 	text-decoration: none;
-	background-image: linear-gradient(to left, rgba(100,100,100,0.1), transparent);
+	background-image: linear-gradient(to left, rgba(25,25,112,0.05), transparent);
 	transition: color 3s, background-color 3s; 
 	z-index: 3;
 }
@@ -74,7 +74,7 @@ img {
 	height: 35px;
 	margin: 1px 3px;
 	border-radius: 2px;	
-	color: black;
+	color: midnightblue;
 	font-size: 35px;
 	line-height: 35px;
 	text-align: center;
@@ -83,12 +83,12 @@ img {
 }
 
 .linkbox:hover {
-	background-image: linear-gradient(to left, rgba(100,100,100,0.5), transparent);
+	background-image: linear-gradient(to left, rgba(25,25,112,0.3), transparent);
 }
 
 .linkbox:hover .linktext {
 	width: 249px;
-	color: black;
+	color: midnightblue;
 	text-shadow: 0 2px 1px white, 2px 0 1px white,-0 -2px 1px white, -2px 0 1px white; 
 	transition: width 1.5s, color 1.5s, text-shadow 1.5s;
 }
@@ -183,7 +183,7 @@ img {
 	height: 170px;
 	width: 170px;
 	margin: 5px;
-	border: 1px solid black;
+	border: 1px solid midnightblue;
 	position: absolute;
 	left: 30px;
 	margin-top: -135px;
@@ -266,9 +266,9 @@ img {
 	height: 270px;
 	width: 480px;
 	margin: 13px 13px 13px 0;
-	border: 1px solid rgba(0,100,0,0.1);
+	border: 1px solid rgba(25,25,112,0.1);
 	display: inline-block;
-	background-color: rgba(0,255,0,0.1);
+	background-color: rgba(25,25,112,0.1);
 }
 
 .blockR {
@@ -277,5 +277,5 @@ img {
 
 .block:hover {
 	opacity: 0.4;
-	border: 1px solid rgba(0,255,0,0.6);
+	border: 1px solid rgba(25,25,112,0.6);
 }
