@@ -16,7 +16,9 @@ img {
 
 .main {
 	width: 1000px;
-	margin: 0 calc((100% - 1000px) / 2);
+	margin: 0 auto;
+
+	/* margin: 0 calc((100% - 1000px) / 2); */
 	margin-top: 20px;
 }
 
@@ -38,7 +40,8 @@ img {
     top: 285px;
     font-size: 60px;
     font-weight: bold;
-    text-shadow: 0 4px 6px midnightblue, 4px 0 6px midnightblue,-0 -4px 6px midnightblue, -4px 0 6px midnightblue;
+    /* text-shadow: 0 4px 6px midnightblue, 4px 0 6px midnightblue,-0 -4px 6px midnightblue, -4px 0 6px midnightblue; */
+    text-shadow: 0 4px 6px black, 4px 0 6px black,-0 -4px 6px black, -4px 0 6px black;
     z-index: 2;
 }
 
@@ -59,8 +62,9 @@ img {
 	width: 0;
 	height: 37px;
 	line-height: 37px;
+	padding-right: 5px;
 	color: transparent;
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: bold;
 	vertical-align: top;
 	display: inline-block;
@@ -87,7 +91,7 @@ img {
 }
 
 .linkbox:hover .linktext {
-	width: 249px;
+	width: 300px;
 	color: midnightblue;
 	text-shadow: 0 2px 1px white, 2px 0 1px white,-0 -2px 1px white, -2px 0 1px white; 
 	transition: width 1.5s, color 1.5s, text-shadow 1.5s;
@@ -187,7 +191,7 @@ img {
 	position: absolute;
 	left: 30px;
 	margin-top: -135px;
-	border-radius: 3px;
+	/* border-radius: 3px; */
 }
 
 .coverPhoto {
