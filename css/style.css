@@ -236,6 +236,7 @@ img {
 	text-align: left;
 	font-weight: normal;
 	display: inline-block;
+	background-image: linear-gradient(to left, transparent, rgba(25,25,112,0.05));
 }
 
 .skillsItem:hover {
