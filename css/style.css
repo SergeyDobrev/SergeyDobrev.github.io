@@ -237,10 +237,11 @@ img {
 	font-weight: normal;
 	display: inline-block;
 	background-image: linear-gradient(to left, transparent, rgba(25,25,112,0.05));
+	cursor: pointer;
 }
 
 .skillsItem:hover {
-	background-image: linear-gradient(to right, rgba(25,25,112,0.2), rgba(25,25,112,0.2) 50%, transparent);
+	background-image: linear-gradient(to right, rgba(25,25,112,0.1), rgba(25,25,112,0.1) 50%, transparent);
 
 }
 
