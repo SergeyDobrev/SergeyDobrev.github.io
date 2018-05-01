@@ -248,6 +248,7 @@ img {
 .skillItemName {
 	height: 30px;
 	width: 135px;
+	padding-left: 4px;
 	color: midnightblue;
 	display: inline-block;
 
