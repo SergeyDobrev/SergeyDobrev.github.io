@@ -1,0 +1,15 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	margin: 0 auto;
+}
+
+div {
+	height: 150px;
+	width: 150px;
+	margin: 20px;
+	border: 1px solid black;
+	display: inline-block;
+}

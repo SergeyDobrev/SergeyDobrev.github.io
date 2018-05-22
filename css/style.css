@@ -238,6 +238,7 @@ img {
 	display: inline-block;
 	background-image: linear-gradient(to left, transparent, rgba(25,25,112,0.05));
 	cursor: pointer;
+	white-space: nowrap;
 }
 
 .skillsItem:hover {
@@ -247,9 +248,10 @@ img {
 
 .skillItemName {
 	height: 30px;
-	width: 135px;
+	width: 136px;
 	padding-left: 4px;
 	color: midnightblue;
+	white-space: nowrap;
 	display: inline-block;
 
 }
