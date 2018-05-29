@@ -1,0 +1,134 @@
+[	{	"tagVal":		"a",
+		"parrentVal":	"#coverFon",
+		"attrVal":		{"id":"link0","class":"linkbox","href":"tel:+380503348863","title":"my telephone"}
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link0",
+		"attrVal":		{"id":"link01","class":"linktext"},
+		"textVal":		"+38(050)3348863"
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link0",
+		"attrVal":		{"id":"link02","class":"linkicon ion-ios-telephone-outline telephone"}
+	},
+	
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#coverFon",
+		"attrVal":		{"id":"link1","class":"linkbox","href":"mailto:sergey_dobrev@ukr.net","title":"my ukrnet mail"}
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link1",
+		"attrVal":		{"id":"link11","class":"linktext"},
+		"textVal":		"sergey_dobrev@ukr.net"
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link1",
+		"attrVal":		{"id":"link12","class":"linkicon ion-ios-email-outline ukrnet"}
+	},
+	
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#coverFon",
+		"attrVal":		{"id":"link2","class":"linkbox","href":"mailto:dobrev.sergey@gmail.com","title":"my google mail"}
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link2",
+		"attrVal":		{"id":"link21","class":"linktext"},
+		"textVal":		"dobrev.sergey@gmail.com"
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link2",
+		"attrVal":		{"id":"link22","class":"linkicon ion-social-google-outline google"}
+	},
+	
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#coverFon",
+		"attrVal":		{"id":"link3","class":"linkbox","href":"skype: sergey.dobrev?call","title":"my skype"}
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link3",
+		"attrVal":		{"id":"link31","class":"linktext"},
+		"textVal":		"skype:sergey.dobrev"
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link3",
+		"attrVal":		{"id":"link32","class":"linkicon ion-social-skype-outline skype"}
+	},
+	
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#coverFon",
+		"attrVal":		{"id":"link4","class":"linkbox","href":"https://www.linkedin.com/in/sergey-dobrev/","title":"my linkedin","target":"_blank"}
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link4",
+		"attrVal":		{"id":"link41","class":"linktext"},
+		"textVal":		"linkedin.com/in/sergey-dobrev"
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link4",
+		"attrVal":		{"id":"link42","class":"linkicon ion-social-linkedin-outline linkedin"}
+	},
+	
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#coverFon",
+		"attrVal":		{"id":"link5","class":"linkbox","href":"https://github.com/SergeyDobrev","title":"my github","target":"_blank"}
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link5",
+		"attrVal":		{"id":"link51","class":"linktext"},
+		"textVal":		"github.com/SergeyDobrev"
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link5",
+		"attrVal":		{"id":"link52","class":"linkicon ion-social-github github"}
+	},
+	
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#coverFon",
+		"attrVal":		{"id":"link6","class":"linkbox","href":"https://codepen.io/dobrev_sergey/","title":"my codepen","target":"_blank"}
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link6",
+		"attrVal":		{"id":"link61","class":"linktext"},
+		"textVal":		"codepen.io/dobrev_sergey"
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link6",
+		"attrVal":		{"id":"link62","class":"linkicon ion-social-codepen-outline codepen"}
+	},
+	
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#coverFon",
+		"attrVal":		{"id":"link7","class":"linkbox","href":"https://www.facebook.com/sergey.dobrev.520","title":"my facebook","target":"_blank"}
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link7",
+		"attrVal":		{"id":"link71","class":"linktext"},
+		"textVal":		"facebook.com/sergey.dobrev.520"
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link7",
+		"attrVal":		{"id":"link72","class":"linkicon ion-social-facebook-outline facebook"}
+	},
+	
+
+	{	"tagVal":		"a",
+		"parrentVal":	"#coverFon",
+		"attrVal":		{"id":"link8","class":"linkbox","href":"https://sergeydobrev.github.io/CV_Sergey_Dobrev.pdf","title":"my pdf cv","target":"_blank"}
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link8",
+		"attrVal":		{"id":"link81","class":"linktext"},
+		"textVal":		"CV_Sergey_Dobrev.pdf"
+	},
+	{	"tagVal":		"div",
+		"parrentVal":	"#link8",
+		"attrVal":		{"id":"link82","class":"linkicon ion-ios-printer-outline paper"}
+	}
+]
