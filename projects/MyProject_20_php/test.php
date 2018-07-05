@@ -14,8 +14,24 @@
 	$sql = "SELECT COUNT(1) FROM $table";
 	$result = mysqli_query($link, $sql); 
 
-	$b = mysqli_fetch_array( $result );
-	echo "В БД записей - $b[0] <Br>"; 
+	$b = mysqli_fetch_array($result);
+
+	$sql = "SELECT * FROM $table";
+	$result = mysqli_query($link, $sql); 
+
+ 	$t = mysqli_num_rows($result);
+	$b = mysqli_fetch_array($result);
+	echo "$t +++<Br>"; 
+	echo "$b[0] <Br>"; 
+	echo "$b[1] <Br>"; 
+	echo "$b[2] <Br>"; 
+	echo "$b[3] <Br>"; 
+	echo "$b[4] <Br>"; 
+	echo "$b[5] <Br>"; 
+	// echo "$b[6] <Br>"; 
+	// echo "$b[7] <Br>"; 
+	// echo "запрос SELECT * FROM table - <Br> $b[2] <Br>";
+	printer_r($result);
 
 
 //Функция получения массива каталога
@@ -24,16 +40,9 @@
  //запрос к базе данных
 		$sql = "SELECT * FROM $table";
  		$result = mysqli_query($link, $sql);
- 		echo "----???--- $result <br>";
- 		if(!$result) {
- 			echo "++++Ok! mysqli_query <br>";
-  			return NULL;
- 		}
- 		else echo "Ok! mysqli_query <br>";
 
- 		$arr_cat = array();
+  		$arr_cat = array();
 
- 		$t = mysqli_num_rows($result);
  		echo "mysqli_num_rows $t";
 
  		if(mysqli_num_rows($result) != 0) {
