@@ -3,7 +3,7 @@
    include 'link_DB.php';
     
    // заполнение БД данными 50 001 строк;
-   $maxrow = 501;
+   $maxrow = 50001;
 
    echo $back;
 

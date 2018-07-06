@@ -31,21 +31,16 @@
 	}
 	else echo "Ошибка выполнения запроса подсчёта записей в БД <Br>";
 
+	echo $back;
 
-	// кол-во строк в БД вапиант 2
-	$sql = "SELECT * FROM $table";
+
+
+	$sql = "SELECT * FROM $table ORDER BY $bos";
 	$result = mysqli_query($link, $sql);
 
-	if ($result) {
-		$t = mysqli_num_rows($result);
-		echo "Ok! В БД записей - $t <Br>";
-		print_r($result);
-		echo "<br>";
+	foreach ($result as $itemResult) {
+		echo $itemResult['ID'].'. ФИО: '.$itemResult['fullname'].'position: '.$itemResult['position'].' - boss id: '.$itemResult['boss'].'<br>';
 	}
-	else echo "Ошибка выполнения запроса подсчёта записей в БД <Br>";
-
-
-	echo $back;
 
 
 
