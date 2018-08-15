@@ -226,8 +226,8 @@ img {
 
 .skillsItem {
 	height: 30px;
-	width: 232px;
-	margin: 2px 0;
+	width: 150px;
+	/* margin: 2px 0; */
 	font-size: 20px;
 	line-height: 30px;
 	display: inline-block;
@@ -236,20 +236,20 @@ img {
 	text-align: left;
 	font-weight: normal;
 	display: inline-block;
-	background-image: linear-gradient(to left, transparent, rgba(25,25,112,0.05));
+	background-image: linear-gradient(to left, transparent, rgba(25,25,112,0.1));
 	cursor: pointer;
 	white-space: nowrap;
 }
 
 .skillsItem:hover {
-	background-image: linear-gradient(to right, rgba(25,25,112,0.1), rgba(25,25,112,0.1) 50%, transparent);
+	background-image: linear-gradient(to right, rgba(25,25,112,0.2), rgba(25,25,112,0.2) 50%, transparent);
 
 }
 
 .skillItemName {
 	height: 30px;
-	width: 136px;
-	padding-left: 4px;
+	width: 150px;
+	padding-left: 6px;
 	color: midnightblue;
 	white-space: nowrap;
 	display: inline-block;
