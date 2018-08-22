@@ -46,9 +46,9 @@ img {
 }
 
 .linkbox {
-	width: 400px;
+	width: 450px;
 	height: 37px;
-	margin: 2px 0 0 600px;
+	margin: 2px 0 0 550px;
 	display: block;
 	position: relative;
 	cursor: pointer;
@@ -91,7 +91,7 @@ img {
 }
 
 .linkbox:hover .linktext {
-	width: 300px;
+	width: 350px;
 	color: midnightblue;
 	text-shadow: 0 2px 1px white, 2px 0 1px white,-0 -2px 1px white, -2px 0 1px white; 
 	transition: width 1.5s, color 1.5s, text-shadow 1.5s;
@@ -254,21 +254,6 @@ img {
 	white-space: nowrap;
 	display: inline-block;
 
-}
-
-.skillLevel {
-	vertical-align: center;
-	border-radius: 4px;
-	height: 20px;
-	width: 4px;
-	margin: -4.5px;
-	transform: rotateZ(35deg);
-	border: 1px solid midnightblue;
-	display: inline-block;
-}
-
-.green {
-	background-color: rgba(25,25,112,0.75);
 }
 
 .block {
