@@ -248,5 +248,8 @@ for (var j = 0; j < figure_array.length; j++) {
 	}
 }
 
-// var TimerId = setTimeout(location.reload(), time += 400);;
+setTimeout('location.reload();', time += 5000);
+
+
+
 
